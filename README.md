@@ -1,2 +1,2 @@
 # eSUS-merge
-Funde em um só arquivo, vários arquivos exportados do e-SUS VE Notifica no formato CSV e cria um único arquivo no formato DBF.
+Cria um único arquivo no formato DBF a partir de um ou de vários arquivos de formato CSV exportados do e-SUS VE Notifica (https://notifica.saude.gov.br/).
